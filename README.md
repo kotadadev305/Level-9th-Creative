@@ -10,7 +10,7 @@ Level 9th Creative is in the Pre-Alpha stage of development, so there isn't real
 	- Custom rules 
 	- Custom creatures with custom stats
 	- Custom equipment
-	- Custom content will react accordingly with each other (an example would be that the character sheet has an equipment slot for bracers, and you can select a piece of armor to be equipped as a bracer.
+	- Custom content can interact with each other (an example would be that the character sheet has an equipment slot for bracers, and you can select a piece of armor to be equipped as a bracer.
 - Map manager with tokens, Fog of War, and lighting
 - Combat tracker
 - Plugin support
